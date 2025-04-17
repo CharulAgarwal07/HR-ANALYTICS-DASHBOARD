@@ -123,5 +123,14 @@ ________________________________________
 4.	Investigate High-Turnover Roles: Laboratory and Sales roles have the highest attrition—conduct surveys or interviews to identify pain points.
 	
 5.	Gender and Diversity Review: Disparities in gender attrition can help refine inclusion and workplace culture strategies.
+_________________________________________
+## Here are some images of our Dashboard
+![Screenshot (8)](https://github.com/user-attachments/assets/2894f857-5b4a-4c47-b3b7-eb9a3ec44305)
+![Screenshot (9)](https://github.com/user-attachments/assets/c88fdd23-a8ac-4202-9c59-4f22002bcf36)
+![Screenshot (10)](https://github.com/user-attachments/assets/556068b7-b6c9-4c45-9dd5-2883e6e43acd)
+![Screenshot (11)](https://github.com/user-attachments/assets/b48f2242-3b31-49a5-970e-61121bd35522)
+
+
+
 
 
