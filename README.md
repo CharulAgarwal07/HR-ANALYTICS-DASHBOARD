@@ -2,6 +2,8 @@
 This is an interactive and data-driven platform designed to provide comprehensive insights into human resources metrics, workforce dynamics, and organizational trends. This dashboard enables HR professionals, business leaders, and decision-makers to monitor, analyze, and optimize various aspects of human capital management in real time.
 ## Dataset used
 - <a href="https://github.com/CharulAgarwal07/HR-ANALYTICS-DASHBOARD/blob/main/HR_Analytics.csv">Dataset</a>
+## Dashboard Interaction
+- <a href="https://github.com/CharulAgarwal07/HR-ANALYTICS-DASHBOARD/blob/main/HR%20analytics%20Dash%20board.pbix">View Dashboard</a>
 ## 🔹 Executive Summary
 •	Total Employees: 1,413
 	
